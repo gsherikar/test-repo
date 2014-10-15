@@ -29,7 +29,7 @@ li Goes from raw data to data products
 * Uses R
 * Nine courses
 * Goes from raw data to data product
-* 
+
 ## Data Science Specialization - 4
 
 * Uses R
