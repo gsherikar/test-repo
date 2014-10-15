@@ -12,6 +12,12 @@ This is a Test Repo
 
 ### This is a slightly smaller heading size
 
+# Data Science Specialization - 0
+
+* Uses R
+* Nine courses
+* Goes from raw data to data products
+
 ### Data Science Specialization - 1
 
 * Uses R
